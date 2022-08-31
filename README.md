@@ -12,5 +12,5 @@ This application will work in Linux, Windows and Mac.
 <h1> Instructions To Clone </h1> 
 You can clone this repository by using git. The following command should 
 be run:
-<href link="https://github.com/ErenGunduzz/pong-game"/>
+<a href link="https://github.com/ErenGunduzz/pong-game"</a>
 
