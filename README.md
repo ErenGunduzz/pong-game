@@ -18,9 +18,9 @@ be run:
 You can convert this python application into an executable(exe) by running the following commands:
 
 The command below is to install pyinstaller on your device if you do not have pyinstaller already installed.
-
+'''
 pip install pyinstaller
-
+'''
 This command is used to convert the python file into an executable.
 
 pyinstaller -w -F quote_generator.py
